@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/ecommerce-platform.git
+git clone https://github.com/your-username/revisit-assignment.git
 cd ecommerce-platform
 
 ### Install dependencies
